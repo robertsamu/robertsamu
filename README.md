@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robertsamu
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Node.js
 
 <!---
 robertsamu/robertsamu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
