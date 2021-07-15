@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @robertsamu
 - 👀 I’m interested in Web Development
+
+- ✨ My main tools are: React, JavaScript
+
 - 🌱 I’m currently learning Node.js
 
 <!---
