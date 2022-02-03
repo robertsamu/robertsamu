@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @robertsamu
 - 👀 I’m interested in Web Development
 
-- ✨ My main tools are: React, JavaScript
+- ✨ My main tools are: Angular, TypeScript, JavaScript
 
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning React, Node.js
 
 <!---
 robertsamu/robertsamu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
